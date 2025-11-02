@@ -1,0 +1,15 @@
+.chat {
+  display: flex;
+  border: 2px solid var(--clr-foreground);
+  border-radius: 1em;
+  width: 50%;
+  min-height: 90vh;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1em;
+}
+
+.message-form {
+  display: flex;
+  gap: 1em;
+}

@@ -1,0 +1,6 @@
+.message {
+  border: 2px solid var(--clr-foreground);
+  border-radius: 1em;
+  padding: 1em;
+  display: flex;
+}
